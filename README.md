@@ -98,18 +98,18 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lavuchandu169&theme=tokyonight" alt="chandulavu" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LAVUCHANDU169&theme=tokyonight" alt="chandulavu" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandulavu&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LAVUCHANDU169&theme=tokyo-night" />
 </div>
 
 ---
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandulavu&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LAVUCHANDU169&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
 ---
