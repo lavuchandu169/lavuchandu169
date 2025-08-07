@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Flask, Supabase, and AI integrations**
 
-- 📫 How to reach me: **lavuchandu169@gmail.com** *(replace with your email)*
+- 📫 How to reach me: **lavuchandu169@gmail.com** 
 
 - ⚡ Fun fact: *I once built a real-time AR Furniture app with full product overlay!*
 
