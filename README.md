@@ -98,7 +98,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandulavu&theme=tokyonight" alt="chandulavu" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lavuchandu169&theme=tokyonight" alt="chandulavu" />
 </div>
 
 <div align="center">
