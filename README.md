@@ -130,7 +130,7 @@
 
 ### 🎯 Current Focus
 
-<div align="center">
+
   
 ```python
 class ChanduLavu:
@@ -153,8 +153,6 @@ class ChanduLavu:
     def available_for(self):
         return ["Graduate Software Roles", "Freelance Projects", "Collaborations"]
 ```
-
-</div>
 
 ---
 
