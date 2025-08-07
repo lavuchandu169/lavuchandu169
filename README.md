@@ -117,7 +117,7 @@
 |------------|---------------|----------|
 | **Coop Hub Platform** | React, TypeScript, Python, AWS | [![Live](https://img.shields.io/badge/Live-0078d4?style=flat-square&logo=microsoft-edge)](https://coop-onboarding-adventure.vercel.app/) |
 | **Portfolio Website** | React, Tailwind, 3D Animations | [![Live](https://img.shields.io/badge/Live-0078d4?style=flat-square&logo=microsoft-edge)](https://chandu-portfolio-hub.vercel.app/) |
-| **Cloud Infrastructure** | AWS, Docker, Kubernetes | ![AWS](https://img.shields.io/badge/AWS-orange?style=flat-square&logo=amazon-aws) |
+| **Space Voyager Hub** | React, python, AWS, Nasa openAPI | [![Live](https://img.shields.io/badge/Live-0078d4?style=flat-square&logo=microsoft-edge)](https://nasa-expo.vercel.app/) |
 
 </div>
 
