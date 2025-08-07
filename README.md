@@ -130,31 +130,37 @@
 
 ### 🎯 Current Focus
 
-
-  
-```python
-class ChanduLavu:
-    def __init__(self):
-        self.name = "Chandu Lavu"
-        self.role = "Full Stack Developer"
-        self.education = "MSc Computer Science"
-        self.company = "Clokken-Ireland-Limited"
-        
-    def current_work(self):
-        return {
-            "project": "Coop Hub Platform",
-            "impact": "Revolutionized employee onboarding",
-            "technologies": ["React", "TypeScript", "Python", "AWS"]
-        }
-        
-    def skills_expanding(self):
-        return ["Kubernetes", "Microservices", "Advanced DevOps"]
-        
-    def available_for(self):
-        return ["Graduate Software Roles", "Freelance Projects", "Collaborations"]
-```
-
----
+<table>
+  <tr>
+    <td>🚀</td>
+    <td><strong>Full Stack Developer</strong> @ <a href="https://clokken.ie" target="_blank">Clokken Ireland Limited</a></td>
+  </tr>
+  <tr>
+    <td>💼</td>
+    <td>Building <strong>Coop Hub Platform</strong> to streamline onboarding & workflow</td>
+  </tr>
+  <tr>
+    <td>🛠️</td>
+    <td>Tech Stack:<br>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>📚</td>
+    <td>Learning:
+      <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Microservices-ff6600?style=flat-square"/>
+      <img src="https://img.shields.io/badge/DevOps-0a0a0a?style=flat-square&logo=devops&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>🔍</td>
+    <td>Open to: <code>Graduate Roles</code>, <code>Freelance Projects</code>, <code>Collaborations</code></td>
+  </tr>
+</table>
 
 ### 🌈 Fun Facts & Interests
 
