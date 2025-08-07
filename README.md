@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Flask, Supabase, and AI integrations**
 
-- 📫 How to reach me: **chandulavu@example.com** *(replace with your email)*
+- 📫 How to reach me: **lavuchandu169@gmail.com** *(replace with your email)*
 
 - ⚡ Fun fact: *I once built a real-time AR Furniture app with full product overlay!*
 
@@ -31,7 +31,6 @@
 ### 🧠 Recent Projects
 - 💼 [FogBus Health Monitoring System](https://github.com/chandulavu/fogbus-health)
 - 📱 [Weather Tracker App (Ionic + Flask)](https://github.com/chandulavu/weather-tracker)
-- 🚀 [AI Homework Helper](https://github.com/chandulavu/homework-helper)
 
 ---
 
