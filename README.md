@@ -126,7 +126,7 @@
 <table>
   <tr>
     <td>🚀</td>
-    <td><strong>Full Stack Developer</strong> @ <a href="https://clokken.ie" target="_blank">Clokken Ireland Limited</a></td>
+    <td><strong>Full Stack Developer</strong> @ <a href="https://www.dnb.com/business-directory/company-profiles.clokken_ireland_limited.6abc3843a27e0e660514613925584b3d.html" target="_blank">Clokken Ireland Limited</a></td>
   </tr>
   <tr>
     <td>💼</td>
