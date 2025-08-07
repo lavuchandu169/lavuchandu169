@@ -9,8 +9,8 @@
 </h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chandulavu&label=Profile%20views&color=0e75b6&style=flat" alt="chandulavu" />
-  <img src="https://img.shields.io/github/followers/chandulavu?label=Followers&style=social" alt="GitHub Badge">
+  <img src="https://komarev.com/ghpvc/?username=LAVUCHANDU169&label=Profile%20views&color=0e75b6&style=flat" alt="LAVUCHANDU169" />
+  <img src="https://img.shields.io/github/followers/LAVUCHANDU169?label=Followers&style=social" alt="GitHub Badge">
 </div>
 
 ---
@@ -94,11 +94,11 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LAVUCHANDU169&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chandulavu&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LAVUCHANDU169&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LAVUCHANDU169&theme=tokyonight" alt="chandulavu" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LAVUCHANDU169&theme=tokyonight" alt="LAVUCHANDU169" />
 </div>
 
 <div align="center">
@@ -177,8 +177,8 @@ class ChanduLavu:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandulavu)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandulavu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LAVUCHANDU169)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LAVUCHANDU169)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavuchandu169@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://chandu-portfolio-hub.vercel.app/)
 
