@@ -21,8 +21,6 @@
 
 - 🔭 I'm currently working at **Clokken-Ireland-Limited** developing the **Coop Hub platform**
 
-- 🌱 I'm currently learning **Kubernetes, Microservices Architecture, and Advanced DevOps**
-
 - 👨‍💻 I specialize in **React, TypeScript, Python, AWS, and Cloud Infrastructure**
 
 - 💼 I've built **employee onboarding systems that revolutionized training processes**
@@ -78,11 +76,6 @@
 - ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 - ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 - ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**🔄 Currently Expanding**
-- 🔧 Kubernetes & Container Orchestration
-- 🏗️ Microservices Architecture
-- ☁️ Advanced DevOps Practices
 
 </td>
 </tr>
